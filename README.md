@@ -6,15 +6,11 @@
 ## Installation
 This requires you to have Git and Node.js installed.
 
-To install as a dependency for your own application:
-```bash
-npm install scratch-vm
-```
 To set up a development environment to edit scratch-vm yourself:
 ```bash
-git clone https://github.com/scratchfoundation/scratch-vm.git
+git clone https://github.com/scratch-improved/scratch-vm.git
 cd scratch-vm
-npm install
+npm i
 ```
 
 ## Development Server
